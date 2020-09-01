@@ -1,14 +1,14 @@
 {
-data:[
+"data":[
  {
- id:"1",
- name:"Nikola Team and they",
- author:"Tim Watson"
+ "id":"1",
+ "name":"Nikola Team and they",
+ "author":"Tim Watson"
 },
 {
- id:"",
- name:"The great gatsby",
- author:"Nelson Bits"
+ "id":"2",
+ "name":"The great gatsby",
+ "author":"Nelson Bits"
 }
 ]
 }
